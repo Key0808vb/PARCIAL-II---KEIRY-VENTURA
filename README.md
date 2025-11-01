@@ -1,13 +1,14 @@
-# 🧠 Ejercicios con readline y funciones en Node.js
+# Ejercicios con readline y funciones en Node.js
 
-## 📋 Competencia
+## Competencia
 Aplica la lógica en la resolución de problemas con los temas desarrollados, utilizando el módulo **readline** y funciones en JavaScript (Node.js).
 
 ---
 
-## 🧾 Indicaciones
-Resolver los ejercicios utilizando el módulo `readline` y crear las funciones que en cada uno se solicita.  
-Además, grabar un video con cámara activada realizando la solución a uno de los ejercicios planteados (a elección).  
+## Indicaciones
+Resolver los siguientes ejercicios utilizando el módulo de readline y cree las funciones que en cada uno de los ejercicios se solicita, grabar un video con cámara activada
+realizando la solución a uno de los ejercicios planteados (usted elige cual). Subir a su repositorio los ejercicios resueltos y alojar el enlace en el espacio en la plataforma, 
+así mismo dejar el enlace a su video. Comprobar que los enlaces funcionen correctamente 
 
 📅 **Fecha de entrega:** sábado 01 de noviembre a las 23:59 p.m.  
 🧩 **Lenguaje:** JavaScript (Node.js)  
@@ -17,7 +18,7 @@ Además, grabar un video con cámara activada realizando la solución a uno de l
 
 ## 🚀 Ejercicios resueltos
 
-### 🅰️ [Ejercicio 1](./ejercicio1.js)
+### 🅰️ [EJER 1- ALFABETO.js](./EJER 1- ALFABETO.js)
 > Solicita una cadena de texto y muestra sus letras ordenadas alfabéticamente.  
 **Función:** Recibe la cadena y devuelve una nueva cadena con las letras ordenadas.
 
