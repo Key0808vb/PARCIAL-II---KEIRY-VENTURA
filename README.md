@@ -18,7 +18,7 @@ así mismo dejar el enlace a su video. Comprobar que los enlaces funcionen corre
 
 ## 🚀 Ejercicios resueltos
 
-### [EJER1- ALFABETO.js](./EJER1- ALFABETO.js)
+### [EJER1-ALFABETO.JS](./EJER1-ALFABETO.JS)
 > Solicita una cadena de texto y muestra sus letras ordenadas alfabéticamente.  
 **Función:** Recibe la cadena y devuelve una nueva cadena con las letras ordenadas.
 
