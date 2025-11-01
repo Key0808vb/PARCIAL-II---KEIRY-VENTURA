@@ -24,13 +24,7 @@ así mismo dejar el enlace a su video. Comprobar que los enlaces funcionen corre
 
 ---
 
-### 🔤 [Ejercicio 2](./ejercicio2.js)
-> Solicita una palabra o frase y muestra la cantidad total de caracteres.  
-**Función:** Recibe el texto y devuelve la cantidad de caracteres.
-
----
-
-### 💰 [Ejercicio 3](./ejercicio3.js)
+### [EJER3-SUMA3.JS](./EJER3-SUMA3.JS)
 > Solicita el precio de tres productos y muestra la suma total.  
 **Función:** Recibe los tres precios y devuelve el total sumado.
 
