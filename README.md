@@ -30,30 +30,21 @@ así mismo dejar el enlace a su video. Comprobar que los enlaces funcionen corre
 
 ---
 
-### 🏷️ [Ejercicio 4](./ejercicio4.js)
+### [EJER4-DESCUENTO.JS](./EJER4-DESCUENTO.JS)
 > Solicita el precio de un producto y el porcentaje de descuento.  
 **Función:** Calcula y devuelve el precio final con descuento aplicado.
 
 ---
 
-### 💼 [Ejercicio 5](./ejercicio5.js)
+### [EJER5-SALARIO.JS](./EJER5-SALARIO.JS)
 > Solicita el salario base, las horas extras trabajadas y el valor de una hora normal.  
 **Función:** Calcula el salario total, considerando que cada hora extra se paga 1.5 veces el valor de la hora normal.
 
 ---
 
-## 🎥 Video demostrativo
-🔗 [Haz clic aquí para ver el video explicativo](https://enlace-al-video.com)  
-*(Recuerda reemplazar este enlace por el de tu video real en YouTube, Loom o Google Drive).*
+## 🎥 Video demostrativo: [Haz clic aquí para ver el video explicativo](https://enlace-al-video.com)  
 
 ---
 
-## 🧑‍💻 Cómo ejecutar los ejercicios
-1. Asegúrate de tener **Node.js** instalado.  
-2. Abre la terminal en la carpeta del proyecto.  
-3. Ejecuta cualquiera de los ejercicios con el comando:
-
-   ```bash
-   node ejercicio1.js
-💡 Elaborado por: [Tu nombre aquí]
+💡 Elaborado por: [KEIRY VERÓNICA VENTURA BENÍTEZ]
 📅 Fecha: 01 de noviembre de 2025
