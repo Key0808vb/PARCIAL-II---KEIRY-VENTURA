@@ -16,7 +16,7 @@ así mismo dejar el enlace a su video. Comprobar que los enlaces funcionen corre
 
 ---
 
-## 🚀 Ejercicios resueltos
+## Ejercicios resueltos
 
 ### [EJER1-ALFABETO.JS](./EJER1-ALFABETO.JS)
 > Solicita una cadena de texto y muestra sus letras ordenadas alfabéticamente.  
@@ -46,5 +46,5 @@ así mismo dejar el enlace a su video. Comprobar que los enlaces funcionen corre
 
 ---
 
-💡 Elaborado por: [KEIRY VERÓNICA VENTURA BENÍTEZ]
+💡 Elaborado por: KEIRY VERÓNICA VENTURA BENÍTEZ
 📅 Fecha: 01 de noviembre de 2025
