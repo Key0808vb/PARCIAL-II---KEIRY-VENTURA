@@ -43,6 +43,9 @@ así mismo dejar el enlace a su video. Comprobar que los enlaces funcionen corre
 ---
 
 ## 🎥 Video demostrativo: [Haz clic aquí para ver el video explicativo](https://youtu.be/6hcwXoYqKGw)  
+### [EJER2-CONTEO.JS](./EJER2-CONTEO.JS)
+> Solicita una cadena de texto y muestra la cantidad de caracteres.  
+**Función:** Recibe la cadena y cuenta los caracteres que tiene.
 
 ---
 
