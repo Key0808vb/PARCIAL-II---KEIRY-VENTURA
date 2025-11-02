@@ -42,7 +42,7 @@ así mismo dejar el enlace a su video. Comprobar que los enlaces funcionen corre
 
 ---
 
-## 🎥 Video demostrativo: [Haz clic aquí para ver el video explicativo](https://enlace-al-video.com)  
+## 🎥 Video demostrativo: [Haz clic aquí para ver el video explicativo](https://https://youtu.be/6hcwXoYqKGw)  
 
 ---
 
